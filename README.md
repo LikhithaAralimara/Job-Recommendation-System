@@ -41,6 +41,7 @@ The recommendation system works as follows:
 ## Usage
 
 To use the job recommendation system, you can interact with it through a web application created using Streamlit. The application allows you to select a job title, and it will display a list of recommended job titles based on the selected one.
+
 ![image](https://github.com/LikhithaAralimara/Job-Recommendation-System/assets/128489410/0353edca-e02d-4a2f-be88-017249f1cdec)
 
 ![image](https://github.com/LikhithaAralimara/Job-Recommendation-System/assets/128489410/9fe3a857-82a6-4697-a02f-bb8f72a6d709)
