@@ -3,7 +3,7 @@ Job Recommendation System
 
 **About the System:**
 
-This is a simple job recommendation system that suggests job titles based on a given job title using text similarity. The system utilizes a dataset of job descriptions and employs text preprocessing techniques. It harnesses **machine learning** for text processing and similarity calculation, incorporating **content-based filtering** to recommend job titles based on their textual similarity to the input job title.
+A simple job recommendation system that suggests jobs available based on a given job title using text similarity. The system utilizes a dataset of job descriptions and employs text preprocessing techniques. It harnesses **machine learning** for text processing and similarity calculation, incorporating **content-based filtering** to recommend job titles based on their textual similarity to the input job title.
 
 ## Dataset
 
